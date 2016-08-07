@@ -20,7 +20,7 @@
   "dependencies": {
     "merge": "^1.2.0",
     "moment": "^2.11.1",
-    "v-pagination": "^0.0",
+    "v-pagination": "git+https://github.com/zllovesuki/vue-pagination",
     "vue": ">=1.0",
     "vue-resource": ">=0.9.0"
   },
